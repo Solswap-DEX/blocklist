@@ -32,4 +32,5 @@
   - url: revoke.cash
   - url: nftplus.io
   - url: solswap.cloud
-  - url: "*.solswap.cloud"
+  - url: perps.solswap.cloud
+  - url: docs.solswap.cloud
